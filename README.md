@@ -2,7 +2,6 @@
 
 
 ## Current focus
-- Web3 experiments on Ethereum, Solana, and Polygon
-- NFT 2.0
-- Generative art
-- Metaverse
+- NFT (2.0) experiments on Ethereum, Solana, and Polygon
+- Metaverse UX : Unity and ThreeJS
+- AI/ML NLP and NLG, ML Generative Art : OpenAI, StabilityAI, EleutherAI
